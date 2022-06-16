@@ -1,0 +1,198 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+.bannercontent{
+  display: block;
+}
+  
+.bannerleft{
+  text-align: left;
+}
+
+.bannerleft h6{
+  font-size: 28px;
+  margin-left: 220px;
+}
+.bannerleft h1{
+ font-size: 70px;
+  margin-left: 65px;
+}
+
+.bannerleft p{
+  font-size: 25px;
+  margin-right: 570px;
+  margin-left: 40px;
+  text-align: center;
+  margin-top: -20px;
+}
+
+.bannerleft button{
+  margin-left: 170px;
+  padding: 30px 60px;
+  font-size: 25px;
+}
+
+.bannerright img{
+  margin-left: 80px;
+}
+
+.bannercontent1{
+  display: block;
+}
+
+.bannerright img{
+  margin-left: 80px;
+}
+
+.bannerright{
+  text-align: left;
+}
+
+.bannerright h6{
+  font-size: 32px;
+  margin-left: 220px;
+}
+
+
+.bannerright h2{
+ font-size: 50px;
+  margin-left: 65px;
+}
+
+.bannerright p{
+  font-size: 25px;
+  margin-right: 570px;
+  margin-left: 40px;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 30px; 
+}
+.bannerright a{
+  margin-left: 170px;
+  font-size: 25px;
+  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  color: white;
+  text-decoration: none;
+  padding: 30px 60px;
+  font-size: 25px
+}
+
+.services{
+  text-align: center;
+
+}
+.services h2{
+  margin-right:550px;
+
+}
+.services p{
+      margin-right: 590px;
+      margin-left: 60px;
+}
+.project_title h2{
+
+   margin-right:520px;
+}
+
+.project_title p{
+  margin-right: 590px;
+      margin-left: 60px;
+      font-size: 28px;
+}
+
+.title h2{
+  margin-right:700px;
+  margin-left: 50px;
+}
+
+.title p{
+  margin-right: 670px;
+      margin-left: 30px;
+      font-size: 25px;
+}
+
+.p_title h2{
+  margin-right:550px;
+  margin-left: 50px;
+}
+.p_title p{
+   margin-right: 550px;
+      margin-left: 40px;
+      font-size: 25px;
+}
+
+.blog_title h2{
+margin-right:550px;
+  margin-left: 50px;
+}
+
+.blog_title p{
+  margin-right: 550px;
+      margin-left: 40px;
+      font-size: 25px;
+}
+
+
+
+}
